@@ -1,0 +1,13 @@
+{
+  "shell_port": 56834,
+  "iopub_port": 56835,
+  "stdin_port": 56836,
+  "control_port": 56838,
+  "hb_port": 56837,
+  "ip": "127.0.0.1",
+  "key": "d515edab-65fa5370ba795c25c38d9485",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\hp\\Desktop\\PythonProjects_langchain\\langchain_app.ipynb"
+}

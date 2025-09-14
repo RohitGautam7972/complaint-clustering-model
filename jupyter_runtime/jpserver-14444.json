@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 14444,
+  "port": 8890,
+  "root_dir": "C:\\Users\\hp\\Desktop\\PythonProjects_langchain",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://localhost:8890/",
+  "version": "2.14.2"
+}
