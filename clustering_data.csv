@@ -3,499 +3,499 @@ id,complaint_text,category,timestamp
 2,Mess food is bad.,Hostel,2025-07-27
 3,Lectures are rescheduled last minute without notifications.,Faculty,2025-09-02
 4,Mess staff misbehaves and ignores requests.,Hostel,2025-07-22
-5,The water supply is highly irregular, especially in the mornings.,Maintenance,2025-08-17
+5,The water supply is highly irregular especially in the mornings.,Maintenance,2025-08-17
 6,Professors are rarely available for doubt clearance.,Faculty,2025-07-12
 7,Broken chairs in the gym are unsafe for use.,Sports,2025-07-29
 8,No water facility in sports complex.,Sports,2025-07-26
 9,Delay in releasing project grades is affecting internships.,Faculty,2025-07-14
 10,Internet not working in hostel rooms for days.,Hostel,2025-08-19
 11,Football field needs maintenance.,Sports,2025-09-08
-12,Doors don't lock properly, posing security risks.,Hostel,2025-08-28
+12,Doors don't lock properly posing security risks.,Hostel,2025-08-28
 13,There are electrical short circuits in the study hall.,Maintenance,2025-07-07
-14,Mess food is bad. Several maintenance requests were filed with no resolution. The issue has inconvenienced students for weeks and some have missed assessments as a direct result.,Hostel,2025-07-10
+14,Several maintenance requests were filed with no resolution causing students to miss assessments.,Hostel,2025-07-10
 15,Coaches do not attend practice on time.,Sports,2025-08-20
 16,Faculty feedback is not constructive.,Faculty,2025-08-08
 17,UPVC windows are leaking during heavy rains.,Maintenance,2025-08-24
-18,Mess food is bad.,Hostel,2025-09-10
-19,Staff do not respond to emails about course selection.,Faculty,2025-07-19
-20,The classroom fans are broken and have not been fixed. Several maintenance requests were filed with no resolution. The issue has inconvenienced students for weeks and some have missed assessments as a direct result.,Maintenance,2025-08-02
-21,Unhygienic washrooms, cleaning staff rarely attends.,Hostel,2025-08-03
-22,Lectures are rescheduled last minute without notifications.,Faculty,2025-07-29
-23,Football field needs maintenance.,Sports,2025-07-15
-24,Mess staff misbehaves and ignores requests.,Hostel,2025-07-18
-25,Internet not working in hostel rooms for days.,Hostel,2025-07-27
-26,The water supply is highly irregular, especially in the mornings.,Maintenance,2025-08-10
-27,Delay in releasing project grades is affecting internships.,Faculty,2025-08-13
-28,No water facility in sports complex.,Sports,2025-08-03
-29,Professors are rarely available for doubt clearance.,Faculty,2025-07-31
-30,Broken chairs in the gym are unsafe for use.,Sports,2025-08-26
-31,Doors don't lock properly, posing security risks.,Hostel,2025-07-16
-32,Room lights malfunction every week and nobody attends.,Maintenance,2025-09-01
-33,Mess food is bad.,Hostel,2025-08-29
-34,Staff do not respond to emails about course selection.,Faculty,2025-07-15
-35,Coaches do not attend practice on time.,Sports,2025-08-19
-36,Mess food is bad. Several maintenance requests were filed with no resolution. The issue has inconvenienced students for weeks and some have missed assessments as a direct result.,Hostel,2025-07-25
-37,The classroom fans are broken and have not been fixed.,Maintenance,2025-07-23
-38,Lectures are rescheduled last minute without notifications.,Faculty,2025-08-12
-39,Internet not working in hostel rooms for days.,Hostel,2025-07-30
-40,Football field needs maintenance.,Sports,2025-08-11
-41,Mess staff misbehaves and ignores requests.,Hostel,2025-07-24
-42,The water supply is highly irregular, especially in the mornings.,Maintenance,2025-08-05
-43,Delay in releasing project grades is affecting internships.,Faculty,2025-07-28
-44,No water facility in sports complex.,Sports,2025-07-22
-45,Professors are rarely available for doubt clearance.,Faculty,2025-08-02
-46,Broken chairs in the gym are unsafe for use.,Sports,2025-09-04
-47,Doors don't lock properly, posing security risks.,Hostel,2025-08-21
-48,Mess food is bad.,Hostel,2025-07-20
-49,Lectures are rescheduled last minute without notifications.,Faculty,2025-08-30
-50,Rodded chairs in the gym are unsafe for use.,Sports,2025-09-05
-51,Mess staff misbehaves and ignores requests.,Hostel,2025-08-19
-52,Room lights malfunction every week and nobody attends.,Maintenance,2025-08-25
-53,Delay in releasing project grades is affecting internships.,Faculty,2025-07-21
-54,Internet not working in hostel rooms for days.,Hostel,2025-08-18
-55,Football field needs maintenance.,Sports,2025-07-30
-56,The water supply is highly irregular, especially in the mornings.,Maintenance,2025-08-07
-57,Coaches do not attend practice on time.,Sports,2025-07-24
-58,Lectures are rescheduled last minute without notifications.,Faculty,2025-08-29
-59,Mess food is bad.,Hostel,2025-08-01
-60,Doors don't lock properly, posing security risks.,Hostel,2025-07-26
-61,Professors are rarely available for doubt clearance.,Faculty,2025-08-06
-62,Broken chairs in the gym are unsafe for use.,Sports,2025-08-28
-63,Room lights malfunction every week and nobody attends.,Maintenance,2025-08-20
-64,Mess staff misbehaves and ignores requests.,Hostel,2025-07-23
-65,Lectures are rescheduled last minute without notifications.,Faculty,2025-08-14
-66,No water facility in sports complex.,Sports,2025-08-12
-67,Internet not working in hostel rooms for days.,Hostel,2025-07-29
-68,The classroom fans are broken and have not been fixed.,Maintenance,2025-07-19
-69,Delay in releasing project grades is affecting internships.,Faculty,2025-08-09
-70,Mess food is bad. Several maintenance requests were filed with no resolution. The issue has inconvenienced students for weeks and some have missed assessments as a direct result.,Hostel,2025-07-31
-71,Football field needs maintenance.,Sports,2025-08-22
-72,Professors are rarely available for doubt clearance.,Faculty,2025-08-04
-73,Mess food is bad.,Hostel,2025-08-15
-74,Coaches do not attend practice on time.,Sports,2025-07-27
-75,Door locks are faulty, posing security risks.,Hostel,2025-08-23
-76,Room lights malfunction every week and nobody attends.,Maintenance,2025-07-28
-77,Lectures are rescheduled last minute without notifications.,Faculty,2025-08-21
-78,Internet not working in hostel rooms for days.,Hostel,2025-07-21
-79,Broken chairs in the gym are unsafe for use.,Sports,2025-08-07
-80,The water supply is highly irregular, especially in the mornings.,Maintenance,2025-07-25
-81,Mess staff misbehaves and ignores requests.,Hostel,2025-08-11
-82,Delay in releasing project grades is affecting internships.,Faculty,2025-07-30
-83,No water facility in sports complex.,Sports,2025-08-08
-84,Mess food is bad.,Hostel,2025-08-28
-85,Coaches do not attend practice on time.,Sports,2025-07-22
-86,The classroom fans are broken and have not been fixed.,Maintenance,2025-07-26
-87,Doors don't lock properly, posing security risks.,Hostel,2025-08-03
-88,Lectures are rescheduled last minute without notifications.,Faculty,2025-08-16
-89,Internet not working in hostel rooms for days.,Hostel,2025-07-20
-90,Football field needs maintenance.,Sports,2025-08-05
-91,Professors are rarely available for doubt clearance.,Faculty,2025-08-13
-92,Room lights malfunction every week and nobody attends.,Maintenance,2025-08-27
-93,Mess food is bad.,Hostel,2025-07-24
-94,Delay in releasing project grades is affecting internships.,Faculty,2025-08-17
-95,Mess staff misbehaves and ignores requests.,Hostel,2025-07-18
-96,No water facility in sports complex.,Sports,2025-08-14
-97,Internet not working in hostel rooms for days.,Hostel,2025-07-22
-98,The classroom fans are broken and have not been fixed.,Maintenance,2025-08-04
-99,Coaches do not attend practice on time.,Sports,2025-07-25
-100,Lectures are rescheduled last minute without notifications.,Faculty,2025-08-09
-101,Mess food is bad.,Hostel,2025-07-31
-102,Room lights malfunction every week and nobody attends.,Maintenance,2025-08-02
-103,Delay in releasing project grades is affecting internships.,Faculty,2025-08-11
-104,Internet not working in hostel rooms for days.,Hostel,2025-07-28
-105,Football field needs maintenance.,Sports,2025-08-01
-106,The water supply is highly irregular, especially in the mornings.,Maintenance,2025-08-05
-107,Lectures are rescheduled last minute without notifications.,Faculty,2025-07-26
-108,Mess staff misbehaves and ignores requests.,Hostel,2025-08-03
-109,Broken chairs in the gym are unsafe for use.,Sports,2025-08-06
-110,Coaches do not attend practice on time.,Sports,2025-07-24
-111,Professors are rarely available for doubt clearance.,Faculty,2025-08-10
-112,Mess food is bad.,Hostel,2025-07-29
-113,Doors don't lock properly, posing security risks.,Hostel,2025-08-04
-114,Room lights malfunction every week and nobody attends.,Maintenance,2025-08-08
-115,Delay in releasing project grades is affecting internships.,Faculty,2025-07-25
-116,Internet not working in hostel rooms for days.,Hostel,2025-08-12
-117,Football field needs maintenance.,Sports,2025-07-30
-118,Mess staff misbehaves and ignores requests.,Hostel,2025-08-02
-119,The classroom fans are broken and have not been fixed.,Maintenance,2025-08-07
-120,Coaches do not attend practice on time.,Sports,2025-07-27
-121,Lectures are rescheduled last minute without notifications.,Faculty,2025-08-11
-122,Mess food is bad.,Hostel,2025-07-22
-123,Broken chairs in the gym are unsafe for use.,Sports,2025-08-03
-124,The water supply is highly irregular, especially in the mornings.,Maintenance,2025-07-31
-125,Delay in releasing project grades is affecting internships.,Faculty,2025-08-09
-126,Mess food is bad.,Hostel,2025-07-30
-127,Internet not working in hostel rooms for days.,Hostel,2025-08-05
-128,Coaches do not attend practice on time.,Sports,2025-07-23
-129,Professors are rarely available for doubt clearance.,Faculty,2025-08-07
-130,The classroom fans are broken and have not been fixed.,Maintenance,2025-07-29
-131,Mess staff misbehaves and ignores requests.,Hostel,2025-08-01
-132,Room lights malfunction every week and nobody attends.,Maintenance,2025-07-26
-133,Football field needs maintenance.,Sports,2025-08-12
-134,Lectures are rescheduled last minute without notifications.,Faculty,2025-07-27
-135,Internet not working in hostel rooms for days.,Hostel,2025-08-10
-136,The water supply is highly irregular, especially in the mornings.,Maintenance,2025-07-28
-137,Delay in releasing project grades is affecting internships.,Faculty,2025-08-06
-138,Mess food is bad.,Hostel,2025-07-25
-139,Coaches do not attend practice on time.,Sports,2025-08-08
-140,Mess staff misbehaves and ignores requests.,Hostel,2025-07-24
-141,Broken chairs in the gym are unsafe for use.,Sports,2025-08-04
-142,Doors don't lock properly, posing security risks.,Hostel,2025-07-30
-143,Room lights malfunction every week and nobody attends.,Maintenance,2025-08-05
-144,Professors are rarely available for doubt clearance.,Faculty,2025-07-22
-145,Internet not working in hostel rooms for days.,Hostel,2025-08-13
-146,Mess food is bad.,Hostel,2025-07-29
-147,Delay in releasing project grades is affecting internships.,Faculty,2025-08-14
-148,Football field needs maintenance.,Sports,2025-07-26
-149,Coaches do not attend practice on time.,Sports,2025-08-02
-150,Lectures are rescheduled last minute without notifications.,Faculty,2025-07-25
-151,The HVAC system in the main library often fails, leaving students uncomfortable during study hours.,Maintenance,2025-08-15
-152,Faculty delayed releasing exam results which is hampering my scholarship application process.,Faculty,2025-07-30
-153,Mess food portions are reduced without informing residents; many complain about constant hunger.,Hostel,2025-09-01
-154,Several broken benches near the sports ground have not been repaired for months.,Sports,2025-08-20
-155,Frequent power outages affect online classes; no timely updates or solutions from maintenance.,Maintenance,2025-07-19
-156,Some lecturers have canceled multiple sessions citing personal reasons, affecting syllabus coverage.,Faculty,2025-08-12
-157,The hostel Wi-Fi signal is extremely weak on the upper floors making communication difficult.,Hostel,2025-08-25
-158,Sports equipment storage rooms are often left unlocked, causing security concerns.,Sports,2025-07-28
-159,Water pressure in the hostel bathrooms drops drastically in the evening hours.,Maintenance,2025-08-07
-160,Faculty feedback on assignments lacks detail, which makes it hard to improve subsequent work.,Faculty,2025-07-22
-161,Mess staff hygiene standards are worrying, raising concerns about food safety.,Hostel,2025-08-17
-162,Repeated complaints about the leaking roof near the basketball court have been ignored.,Sports,2025-08-05
-163,The air conditioning in several lecture halls is not functioning properly, causing discomfort.,Maintenance,2025-07-27
-164,Faculty delays in updating course materials online impact study schedules.,Faculty,2025-08-01
-165,Hostel laundry facilities are insufficient for the number of residents, leading to delays.,Hostel,2025-07-24
-166,Some sports coaches fail to provide consistent training sessions as scheduled.,Sports,2025-08-16
-167,The common room lights flicker constantly, disturbing students trying to relax.,Maintenance,2025-08-10
-168,Lack of clarity from faculty regarding project deadlines is causing confusion.,Faculty,2025-07-31
-169,Hostel recreational areas are frequently dirty and not maintained properly.,Hostel,2025-08-22
-170,Sports tracks have uneven surfaces causing risk of injury during practice.,Sports,2025-07-26
-171,Heating system in the hostel rooms is unreliable leading to cold nights for residents.,Maintenance,2025-08-04
-172,Some faculty members are not accessible outside class hours for clarifications.,Faculty,2025-08-14
-173,Mess menu lacks variety, and there is little consideration for dietary restrictions.,Hostel,2025-07-28
-174,Sports field floodlights are broken, restricting evening practice times.,Sports,2025-08-08
-175,Frequent water leaks in hostel block C, causing wet floors and hazards.,Maintenance,2025-07-21
-176,Delayed responses from faculty regarding internship approvals affecting student plans.,Faculty,2025-08-18
-177,Insect infestations reported in the mess area, hygiene needs immediate attention.,Hostel,2025-08-03
-178,Sports facilities booking system is faulty leading to scheduling conflicts.,Sports,2025-07-25
-179,Elevator in the main academic block often breaks down causing inconvenience.,Maintenance,2025-08-23
-180,Lack of detailed exam review sessions from faculty frustrating students.,Faculty,2025-07-29
-181,Hostel lights frequently go off at night causing safety concerns.,Hostel,2025-08-07
-182,Some sports training equipment is outdated and unsafe to use.,Sports,2025-08-11
-183,Repeated complaints about noisy air conditioners in study halls have had no response.,Maintenance,2025-07-26
-184,Faculty often postpone scheduled classes citing administrative work load.,Faculty,2025-08-20
-185,Mess utensils are often unclean leading to worries about food contamination.,Hostel,2025-08-01
-186,The sports complex lacks first aid facilities for injured athletes.,Sports,2025-07-31
-187,Broken taps in hostel bathrooms cause water wastage and inconvenience.,Maintenance,2025-08-10
-188,Unclear guidelines from faculty on grading criteria are confusing students.,Faculty,2025-07-23
-189,Hostel corridors often left unlocked compromising student security.,Hostel,2025-08-19
-190,The sports ground parking lot is too small leading to congestion during events.,Sports,2025-07-20
-191,Maintenance requests take weeks to be addressed, especially plumbing issues.,Maintenance,2025-08-05
-192,Faculty seminars and extra help sessions are rarely arranged for difficult subjects.,Faculty,2025-08-14
-193,Mess food preparation areas are frequently untidy raising hygiene questions.,Hostel,2025-07-18
-194,Some sports fields are inaccessible due to poor drainage during rainy days.,Sports,2025-08-08
-195,Delayed repairs to damaged hostel furniture causing discomfort.,Maintenance,2025-07-27
-196,Faculty communication about changes in course structure is inadequate.,Faculty,2025-08-03
-197,Hostel lacks adequate garbage disposal system causing unpleasant odors.,Hostel,2025-07-29
-198,Sports facilities maintenance staff are unresponsive to repair requests.,Sports,2025-08-20
-199,Water heater in hostel bathrooms often malfunctions during winter.,Maintenance,2025-08-12
-200,Faculty office hours clash with lecture timings making it hard to meet instructors.,Faculty,2025-07-22
-201,The heating in hostel block A rooms is completely unreliable at night; many students struggle to sleep.,Maintenance,2025-09-03
-202,Our faculty sometimes miss scheduled office hours without notifying students in advance.,Faculty,2025-09-01
-203,Mess food has become repetitive and tasteless, reducing student satisfaction significantly.,Hostel,2025-09-07
-204,The sports gym has broken treadmills and no replacement has been scheduled yet.,Sports,2025-09-05
-205,Poor lighting in several corridors is causing accidents late at night, urgent maintenance needed.,Maintenance,2025-08-31
-206,Delay in updating coursework material online is causing confusion and falling behind.,Faculty,2025-09-06
-207,Hostel internet connection drops frequently during late hours, disrupting study sessions.,Hostel,2025-08-29
-208,Several often-used sports fields are waterlogged and inaccessible due to poor drainage.,Sports,2025-09-02
-209,Washing machine in hostel laundry room is frequently out of order, increasing waiting times.,Maintenance,2025-09-04
-210,Faculty communication channels are often unresponsive causing delay in solving queries.,Faculty,2025-08-27
-211,Unsanitary conditions in the mess reported by numerous students, urgent cleaning needed.,Hostel,2025-09-08
-212,Sports equipment booking system is confusing and often results in double bookings.,Sports,2025-09-03
-213,Electrical socket issues in study rooms cause disruptions during computer labs.,Maintenance,2025-09-07
-214,Lack of timely response from faculty about grade appeals causing student anxiety.,Faculty,2025-08-30
-215,Mess staff often serve cold food despite high temperatures leading to food safety worries.,Hostel,2025-08-28
-216,The football field lacks proper line markings, which affects official matches.,Sports,2025-09-06
-217,Leaky taps and faucets in hostel washrooms cause water wastage and discomfort.,Maintenance,2025-09-05
-218,Course instructors often reschedule classes last minute without informing students.,Faculty,2025-09-01
-219,Poor recycling and trash disposal facilities in the hostel increase pest problems.,Hostel,2025-09-07
-220,Sports courts are untidy and have broken fences, creating safety hazards.,Sports,2025-08-29
-221,Heating systems in academic blocks are faulty, affecting concentration during cold days.,Maintenance,2025-09-04
-222,Faculty often do not provide detailed feedback on assignments, limiting student improvement.,Faculty,2025-09-08
-223,Mess food portions are too small and do not satisfy nutritional needs of active students.,Hostel,2025-09-02
-224,Some gym equipment is outdated and causes minor injuries during workouts.,Sports,2025-09-05
-225,Flickering lights in hostel study areas make it hard to focus during late study hours.,Maintenance,2025-09-03
-226,Faculty communication about exam schedules is often delayed, causing confusion.,Faculty,2025-08-31
-227,Multiple complaints of unhygienic mess utensils leading to student health concerns.,Hostel,2025-09-06
-228,Lack of water stations near sports fields causes dehydration risks during summer.,Sports,2025-09-01
-229,Several hostels suffer from irregular garbage collection leading to smells and pests.,Maintenance,2025-09-07
-230,Faculty are sometimes hard to reach for clarifications outside class hours.,Faculty,2025-09-04
-231,Hostel common rooms frequently unavailable due to poor maintenance and scheduling issues.,Hostel,2025-08-30
-232,Lack of qualified sports coaching staff has reduced training quality significantly.,Sports,2025-09-06
-233,Air conditioning units in library often malfunction during peak usage times.,Maintenance,2025-09-02
-234,Faculty occasionally fail to respond to emails about project deadlines and requirements.,Faculty,2025-09-05
-235,Mess food hygiene standards seem to have fallen, as reported by multiple students.,Hostel,2025-09-07
-236,Sports equipment rooms are often left unlocked, raising safety concerns.,Sports,2025-09-01
-237,Several toilets in the hostel are broken and have not been repaired for weeks.,Maintenance,2025-09-06
-238,Lack of detailed syllabus updates from faculty creates confusion among students.,Faculty,2025-08-29
-239,Frequent water shortages in hostel blocks affect daily routines significantly.,Hostel,2025-09-03
-240,The jogging track surface is uneven and causes injuries to runners frequently.,Sports,2025-08-31
-241,Heating system malfunctions in study halls leading to discomfort amidst exams.,Maintenance,2025-09-07
-242,Faculty feedback on practicals lacks clarity, which affects lab preparation.,Faculty,2025-09-02
-243,Mess meals are sometimes served cold despite complaints from residents.,Hostel,2025-09-05
-244,Incomplete sports gear inventory makes it difficult to conduct official matches.,Sports,2025-09-04
-245,Recurring power outages disrupt hostel activities and cause safety concerns.,Maintenance,2025-08-28
-246,Faculty availability for extra help sessions is inconsistent causing frustration.,Faculty,2025-09-06
-247,Hostel recreation areas need urgent maintenance due to frequent damages.,Hostel,2025-09-01
-248,Some sports facilities are closed unexpectedly without notice affecting practice.,Sports,2025-09-03
-249,Leaking roofs in academic blocks cause distractions and damage personal belongings.,Maintenance,2025-09-05
-250,Faculty grading criteria are sometimes unclear and inconsistently applied.,Faculty,2025-09-07
-251,The air conditioning in the seminar hall is broken, making it unbearable during summer lectures.,Maintenance,2025-09-12
-252,Faculty often cancel discussion sessions without informing students in advance, disrupting study plans.,Faculty,2025-09-11
-253,The cleanliness of the hostel kitchen has significantly declined, with pests being spotted frequently.,Hostel,2025-09-10
-254,Many of the basketballs used for practice are old and deflated, impeding quality training.,Sports,2025-09-09
-255,The campus Wi-Fi often drops out during critical lecture presentations, frustrating attendees.,Maintenance,2025-09-08
-256,Several professors are unresponsive to emails about assignment deadlines, causing confusion.,Faculty,2025-09-07
-257,Mess staff behavior has worsened; complaints about rudeness are common among residents.,Hostel,2025-09-06
-258,The outdoor volleyball court has many cracks leading to unsafe playing conditions.,Sports,2025-09-05
-259,The hostel water heater has been out of service for weeks, causing severe discomfort.,Maintenance,2025-09-04
-260,Faculty fail to update the course portal regularly, leaving students without current resources.,Faculty,2025-09-03
-261,Unpleasant odors are often present in the east wing of the hostel, likely due to poor ventilation.,Hostel,2025-09-02
-262,Sports practice schedules are frequently changed with little notice, confusing athletes.,Sports,2025-09-01
-263,The elevator in the arts building is frequently stuck between floors, creating safety hazards.,Maintenance,2025-08-31
-264,Several lecturers are unavailable during consultation hours, making it difficult to seek help.,Faculty,2025-08-30
-265,Mess food has poor variety, and frequent repeat menus bore most students.,Hostel,2025-08-29
-266,Sports training facilities lack adequate lighting, making evening practice difficult.,Sports,2025-08-28
-267,Several lights in the hostel corridors have been out for weeks, raising safety concerns.,Maintenance,2025-08-27
-268,Faculty provide minimal feedback on essay submissions which limits student progress.,Faculty,2025-08-26
-269,Unhygienic conditions in the laundry area due to delayed cleaning routines.,Hostel,2025-08-25
-270,Many sports lockers are broken with faulty locks, risking loss of equipment.,Sports,2025-08-24
-271,Hot water availability in hostel bathrooms is unreliable, especially during mornings.,Maintenance,2025-08-23
-272,Delay in posting grades for midterms has created anxiety among students.,Faculty,2025-08-22
-273,The mess staff often serve cold parcels for students attending early classes.,Hostel,2025-08-21
-274,Broken nets on the cricket pitch reduce the quality of training sessions.,Sports,2025-08-20
-275,Fire alarms in several hostel blocks are malfunctioning, raising safety issues.,Maintenance,2025-08-19
-276,Some faculty members are late to lectures regularly, wasting valuable class time.,Faculty,2025-08-18
-277,Mess utensils often appear unclean leading to health concerns among residents.,Hostel,2025-08-17
-278,Frequent cancellations of sports practice sessions without prior notice.,Sports,2025-08-16
-279,Heating systems in the library are inadequate during cold weather, causing discomfort.,Maintenance,2025-08-15
-280,Professors sometimes give ambiguous instructions about assignment submissions.,Faculty,2025-08-14
-281,Unpleasant smell in the basement common room due to stagnant water.,Hostel,2025-08-13
-282,Limited access to indoor sports facilities on weekends creates scheduling problems.,Sports,2025-08-12
-283,Many fans in lecture halls are broken, causing discomfort during hot days.,Maintenance,2025-08-11
-284,Some course materials are not uploaded online despite deadlines approaching.,Faculty,2025-08-10
-285,Mess food portions are small and leave many students hungry after meals.,Hostel,2025-08-09
-286,Sports equipment like rackets and balls are old and need immediate replacement.,Sports,2025-08-08
-287,Hostel door locks are faulty causing security concerns, especially at night.,Maintenance,2025-08-07
-288,Faculty response times for assignment queries are slow, causing confusion.,Faculty,2025-08-06
-289,The mess area garbage bins overflow frequently causing foul odor.,Hostel,2025-08-05
-290,Water supply interruptions during sports practice sessions affect hydration.,Sports,2025-08-04
-291,Several floors in the hostel suffer from poor elevator service disrupting mobility.,Maintenance,2025-08-03
-292,Lack of timely feedback from faculty on term papers affects study planning.,Faculty,2025-08-02
-293,Inconsistent cleaning schedules of hostel bathrooms lowering hygiene standards.,Hostel,2025-08-01
-294,Some gym machines at the sports complex are out of order for weeks.,Sports,2025-07-31
-295,Heating malfunctions in student lounges cause discomfort during late night group studies.,Maintenance,2025-07-30
-296,Faculty members sometimes do not hold scheduled revision classes.,Faculty,2025-07-29
-297,Mess staff hygiene practices are questionable impacting food safety.,Hostel,2025-07-28
-298,Unsatisfactory maintenance of outdoor sports fields reduces usable practice area.,Sports,2025-07-27
-299,Water leakage issues in hostel rooms cause property damage and inconvenience.,Maintenance,2025-07-26
-300,Delay in faculty posting lecture notes online affects exam preparations.,Faculty,2025-07-25
-301,The seminar hall projector has been malfunctioning for weeks causing disruption in classes.,Maintenance,2025-07-24
-302,Faculty members frequently delay in uploading course materials which affects learning.,Faculty,2025-07-23
-303,Frequent delays in mess meal timings have caused inconvenience during tight schedules.,Hostel,2025-07-22
-304,Sports ground floodlights are dim and often don’t turn on during evening matches.,Sports,2025-07-21
-305,Several electrical outlets in the hostel common rooms are non-functional for months.,Maintenance,2025-07-20
-306,Some faculty provide minimal clarification on complex topics leaving students confused.,Faculty,2025-07-19
-307,Hostel food quality fluctuates greatly between meals often leading to complaints.,Hostel,2025-07-18
-308,The outdoor basketball court surface is eroded and unsafe for play.,Sports,2025-07-17
-309,Water leakage from AC units in academic buildings causing damage to furniture.,Maintenance,2025-07-16
-310,Unexpected cancellation of tutorials by faculty without prior notification.,Faculty,2025-07-15
-311,Mess staff sometimes neglect hygiene standards compromising food safety.,Hostel,2025-07-14
-312,Broken gym equipment remains unrepaired for weeks creating hazards.,Sports,2025-07-13
-313,Poor ventilation in hostel rooms causes discomfort during hot weather.,Maintenance,2025-07-12
-314,Faculty members are often late or miss scheduled office hours.,Faculty,2025-07-11
-315,Mess menus lack nutritional balance impacting student health during exam periods.,Hostel,2025-07-10
-316,The tennis court nets are torn and have not been replaced for a long time.,Sports,2025-07-09
-317,Frequent power fluctuations disrupt hostel study environments.,Maintenance,2025-07-08
-318,Faculty provide insufficient guidance on lab practicals leading to poor understanding.,Faculty,2025-07-07
-319,Unclean hostel common areas attract pests, affecting student comfort.,Hostel,2025-07-06
-320,Lack of access to sports equipment due to poor maintenance.,Sports,2025-07-05
-321,Faulty heating systems in library cause disturbances during winter sessions.,Maintenance,2025-07-04
-322,Inconsistent faculty feedback makes exam preparation difficult.,Faculty,2025-07-03
-323,Mess staff behavior is not always courteous, making dining experiences unpleasant.,Hostel,2025-07-02
-324,Sports trails are narrow and poorly maintained, reducing practice effectiveness.,Sports,2025-07-01
-325,Water supply interruptions in hostel block cause major inconvenience.,Maintenance,2025-06-30
-326,Difficulty in communication with faculty regarding course changes.,Faculty,2025-06-29
-327,Mess facilities lack sufficient seating causing overcrowding during peak hours.,Hostel,2025-06-28
-328,Broken lights in sports locker rooms create unsafe conditions.,Sports,2025-06-27
-329,Damage to hostel study room furniture affecting student health and posture.,Maintenance,2025-06-26
-330,Faculty are often unavailable during consultation appointments.,Faculty,2025-06-25
-331,Mess food served cold frequently despite complaints from students.,Hostel,2025-06-24
-332,The athletic track has several cracks and needs urgent resurfacing.,Sports,2025-06-23
-333,Intermittent water supply problems in hostel causing hygiene concerns.,Maintenance,2025-06-22
-334,Faculty delay grading assignments impacting student planning.,Faculty,2025-06-21
-335,Unpleasant odors in the hostel basement due to drainage issues.,Hostel,2025-06-20
-336,Some sports equipment is outdated and not safe for regular use.,Sports,2025-06-19
-337,Heating malfunctions in hostel at night leaving students uncomfortable.,Maintenance,2025-06-18
-338,Faculty information about exam schedules is not distributed systematically.,Faculty,2025-06-17
-339,Dirty hostel bathrooms reduce student morale and comfort.,Hostel,2025-06-16
-340,Sports facilities are often locked without notice preventing practice.,Sports,2025-06-15
-341,Lack of sufficient lights in hostel outdoor areas causing safety concerns.,Maintenance,2025-06-14
-342,Faculty are sometimes late starting lectures affecting syllabus coverage.,Faculty,2025-06-13
-343,Mess food portions are inconsistent and sometimes insufficient.,Hostel,2025-06-12
-344,Broken fencing around soccer field makes it difficult to manage games.,Sports,2025-06-11
-345,Recurring electrical faults in student housing disrupt daily routines.,Maintenance,2025-06-10
-346,Faculty do not provide adequate exam preparation materials and support.,Faculty,2025-06-09
-347,Mess dining area often overcrowded and uncomfortable during meal times.,Hostel,2025-06-08
-348,Some gym equipment does not have proper instructions causing misuse.,Sports,2025-06-07
-349,Hostel laundry machines frequently out of order increasing wait times.,Maintenance,2025-06-06
-350,Faculty communication is sometimes vague causing confusion in coursework.,Faculty,2025-06-05
-351,The auditorium sound system is outdated causing poor audio quality during events.,Maintenance,2025-07-24
-352,Faculty members are frequently late to classes which disrupts the learning schedule.,Faculty,2025-07-23
-353,Mess food hygiene is poor, some students have reported getting sick after meals.,Hostel,2025-07-22
-354,Several sports nets around the basketball court are torn and need urgent replacement.,Sports,2025-07-21
-355,Lighting in the student common area is dim and often flickers causing discomfort.,Maintenance,2025-07-20
-356,Faculty rarely hold review sessions before exams, leaving students unprepared.,Faculty,2025-07-19
-357,Significant delays in water supply in hostels make daily hygiene challenging.,Hostel,2025-07-18
-358,The tennis courts have broken surfaces making them unsafe for play.,Sports,2025-07-17
-359,Heating systems in the library are insufficient during winter creating an uncomfortable environment.,Maintenance,2025-07-16
-360,Faculty often do not provide detailed marking criteria for assignments causing confusion.,Faculty,2025-07-15
-361,Mess staff attitude is sometimes rude which negatively affects dining atmosphere.,Hostel,2025-07-14
-362,Broken equipment in the gym has not been fixed for several weeks.,Sports,2025-07-13
-363,Air conditioning in common study rooms is either too cold or not working at all.,Maintenance,2025-07-12
-364,Faculty are not accessible outside of class hours for additional academic help.,Faculty,2025-07-11
-365,Mess food variety is low, and repetitive menus reduce student satisfaction.,Hostel,2025-07-10
-366,Some sports training schedules frequently get changed at short notice.,Sports,2025-07-09
-367,Elevators in hostel block A often break down, inconveniencing residents.,Maintenance,2025-07-08
-368,Faculty responses to student queries on assignments are often delayed.,Faculty,2025-07-07
-369,Unclean conditions reported around hostel waste disposal areas.,Hostel,2025-07-06
-370,Sports field drainage is poor resulting in waterlogging after rains.,Sports,2025-07-05
-371,Frequent power cuts in hostels cause interruptions in study routines.,Maintenance,2025-07-04
-372,Faculty sometimes cancel lectures unexpectedly which disrupts learning pace.,Faculty,2025-07-03
-373,Mess kitchen often smells bad due to poor ventilation.,Hostel,2025-07-02
-374,Some gym machines have safety issues which have not been addressed.,Sports,2025-07-01
-375,Lack of hot water in hostel bathrooms during winters affects comfort.,Maintenance,2025-06-30
-376,Faculty sometimes fail to provide clear guidelines on projects and exams.,Faculty,2025-06-29
-377,Mess portion sizes sometimes do not meet student nutritional needs.,Hostel,2025-06-28
-378,Sports courts are inadequately maintained leading to injuries.,Sports,2025-06-27
-379,Broken windows and poor sealing in hostel rooms cause drafts.,Maintenance,2025-06-26
-380,Faculty lecture slides are often outdated or missing important information.,Faculty,2025-06-25
-381,Mess utensils are often unclean leading to concern among students.,Hostel,2025-06-24
-382,Some sports events are poorly scheduled leading to conflicts and cancellations.,Sports,2025-06-23
-383,Heating in academic blocks is unreliable resulting in discomfort during cold days.,Maintenance,2025-06-22
-384,Faculty availability is limited during exam preparation affecting performance.,Faculty,2025-06-21
-385,Mess dining area cleanliness has declined over the semester.,Hostel,2025-06-20
-386,Broken seats and equipment in the sports gym have not been repaired.,Sports,2025-06-19
-387,Air quality in study halls is poor due to lack of ventilation.,Maintenance,2025-06-18
-388,Lack of timely communication from faculty regarding syllabus changes.,Faculty,2025-06-17
-389,Mess staff hygiene practices often do not meet expected standards.,Hostel,2025-06-16
-390,Water leaks on sports fields affect usability during rainy seasons.,Sports,2025-06-15
-391,Hot water pipes in hostels burst frequently causing inconvenience.,Maintenance,2025-06-14
-392,Faculty communication channels are often unresponsive during critical times.,Faculty,2025-06-13
-393,Mess food quality fluctuates making dining experience unpredictable.,Hostel,2025-06-12
-394,Some sports facilities are unavailable due to poor maintenance.,Sports,2025-06-11
-395,Broken lights in hallways create unsafe conditions especially at night.,Maintenance,2025-06-10
-396,Faculty do not provide clear marking rubrics for assessments.,Faculty,2025-06-09
-397,Unpleasant odors in hostel corridors due to sanitation issues.,Hostel,2025-06-08
-398,Sports schedules are not coordinated leading to overlaps and confusion.,Sports,2025-06-07
-399,Maintenance requests take weeks to get resolved leading to dissatisfaction.,Maintenance,2025-06-06
-400,Faculty can be difficult to reach for course advice outside class hours.,Faculty,2025-06-05
-401,Several air conditioning units across campus are malfunctioning, causing discomfort during lectures.,Maintenance,2025-06-04
-402,Faculty frequently reschedule office hours without notifying students affecting accessibility.,Faculty,2025-06-03
-403,The hostel mess has had multiple hygiene violations leading to student health concerns.,Hostel,2025-06-02
-404,The baseball field’s dugouts are in disrepair, making them unsafe for players.,Sports,2025-06-01
-405,Water pressure in several hostel blocks is inconsistent leading to frequent outages.,Maintenance,2025-05-31
-406,Lecturers sometimes skip critical portions of the syllabus without explanation.,Faculty,2025-05-30
-407,Owing to poor cleaning standards, the hostel common rooms are unhygienic.,Hostel,2025-05-29
-408,Cracks and uneven surfaces on the running track cause frequent injuries.,Sports,2025-05-28
-409,Elevator malfunctions in academic blocks create problems especially for disabled students.,Maintenance,2025-05-27
-410,Faculty rarely communicate important exam updates timely, causing confusion.,Faculty,2025-05-26
-411,Pest infestations have worsened in the hostel dormitories due to poor sanitation.,Hostel,2025-05-25
-412,Lack of first-aid kits at sports events jeopardizes student safety.,Sports,2025-05-24
-413,Several light bulbs in study lounges have been out for weeks, affecting late-hour studies.,Maintenance,2025-05-23
-414,Faculty sometimes provide vague grading rubrics leading to misunderstandings.,Faculty,2025-05-22
-415,Mess food portions often do not meet the caloric requirements of active students.,Hostel,2025-05-21
-416,Broken safety nets on volleyball courts impact practice session quality.,Sports,2025-05-20
-417,Heating in the computer lab is faulty causing discomfort to long study sessions.,Maintenance,2025-05-19
-418,Lecturers seldom hold extra help sessions for difficult subjects impacting grades.,Faculty,2025-05-18
-419,Dining area cleanliness fluctuates with occasional presence of pests causing concern.,Hostel,2025-05-17
-420,Several sports event cancellations due to poor ground conditions unfairly affect teams.,Sports,2025-05-16
-421,Frequent power outages in hostels disrupt exam preparation and sleep schedules.,Maintenance,2025-05-15
-422,Faculty are often unreachable during crucial weeks before exams leading to poor prep.,Faculty,2025-05-14
-423,New hostel residents face difficulty adjusting due to insufficient orientation on facilities.,Hostel,2025-05-13
-424,The soccer field’s goalposts are unstable posing safety risks during games.,Sports,2025-05-12
-425,Recurrent plumbing issues in hostel bathrooms cause water wastage and discomfort.,Maintenance,2025-05-11
-426,Sporadic faculty availability limits student access to guidance outside lecture hours.,Faculty,2025-05-10
-427,Mess food consistency varies leading to unpredictable meal quality affecting students.,Hostel,2025-05-09
-428,Missing or damaged weights in weight training room hinder fitness routines.,Sports,2025-05-08
-429,Study hall air conditioning systems need urgent maintenance with several failures.,Maintenance,2025-05-07
-430,Faculty sometimes delay in releasing end-of-year results causing anxiety among students.,Faculty,2025-05-06
-431,Inadequate sanitation staff leads to unclean hostels especially during weekends.,Hostel,2025-05-05
-432,Many sports nets (badminton/tennis) have holes reducing training quality.,Sports,2025-05-04
-433,Noise pollution from construction nearby disrupts classes and studies regularly.,Maintenance,2025-05-03
-434,Faculty communication about course prerequisites misses vital information.,Faculty,2025-05-02
-435,Hostel Wi-Fi drops frequently causing issues for students attending online lectures.,Hostel,2025-05-01
-436,Some sports practices are cancelled last minute without notification impacting preparedness.,Sports,2025-04-30
-437,Heating radiators in some hostel rooms are broken leading to cold conditions at night.,Maintenance,2025-04-29
-438,Lack of detailed faculty feedback on subjective papers causes confusion.,Faculty,2025-04-28
-439,Mess food sometimes spoiled due to storage issues causing health concerns.,Hostel,2025-04-27
-440,Insufficient lighting in outdoor sports facilities reduces evening practice opportunities.,Sports,2025-04-26
-441,Several hostel water taps leak continuously wasting water and increasing bills.,Maintenance,2025-04-25
-442,Faculty office hours clash with other mandatory events reducing student access.,Faculty,2025-04-24
-443,Mess utensils are sometimes old or cracked which may cause health hazards.,Hostel,2025-04-23
-444,The sports complex locker rooms lack adequate ventilation and are often damp.,Sports,2025-04-22
-445,The backup generator in hostels does not work leading to power disruptions.,Maintenance,2025-04-21
-446,Faculty often revise exam formats late causing students to scramble last minute.,Faculty,2025-04-20
-447,Unhygienic conditions in the mess area have worsened during hotter months.,Hostel,2025-04-19
-448,Lack of certified coaches reduces effectiveness of sports training programs.,Sports,2025-04-18
-449,Broken windows cause drafts in several hostel rooms, negatively impacting health.,Maintenance,2025-04-17
-450,Faculty rarely communicate proper grading policies affecting student trust.,Faculty,2025-04-16
-451,Many classroom projectors produce low-quality images, affecting presentations.,Maintenance,2025-04-15
-452,Faculty often provide insufficient details in assignment instructions causing confusion.,Faculty,2025-04-14
-453,The hostel common room Wi-Fi is extremely slow limiting group study sessions.,Hostel,2025-04-13
-454,Lack of professional coaching for indoor sports is hampering skill development.,Sports,2025-04-12
-455,Broken light switches in hallways cause frequent outages in student study areas.,Maintenance,2025-04-11
-456,Faculty members sometimes do not post lecture notes on time affecting revision.,Faculty,2025-04-10
-457,Mess food sometimes smells bad and causes students to avoid meals.,Hostel,2025-04-09
-458,Uneven surfaces on the basketball court have led to many student injuries.,Sports,2025-04-08
-459,Heating in the library is inconsistent leading to student discomfort during exams.,Maintenance,2025-04-07
-460,Professors delay grading making it hard to plan for remedial classes.,Faculty,2025-04-06
-461,Lack of proper cleaning in hostel bathrooms results in unhygienic conditions.,Hostel,2025-04-05
-462,Frequent cancellation of sports training sessions without notice frustrates students.,Sports,2025-04-04
-463,Electrical wiring issues cause power loss during important lectures.,Maintenance,2025-04-03
-464,Faculty often fail to provide feedback on assignments in a timely manner.,Faculty,2025-04-02
-465,Mess staff are often inattentive leading to long waiting times during peak hours.,Hostel,2025-04-01
-466,Sports equipment is old and frequently breaking down during practice.,Sports,2025-03-31
-467,Water supply interruptions in hostel cause major inconveniences during exams.,Maintenance,2025-03-30
-468,Faculty sometimes cancel revision sessions days before exams without prior notice.,Faculty,2025-03-29
-469,Hostel common areas are often noisy late into the night, disturbing sleep.,Hostel,2025-03-28
-470,Several sports courts have broken fencing causing safety hazards.,Sports,2025-03-27
-471,Air conditioners in study rooms malfunction regularly disrupting focus.,Maintenance,2025-03-26
-472,Faculty do not always clarify grading criteria leading to uncertainty.,Faculty,2025-03-25
-473,Mess food quality dips drastically during exam weeks causing dissatisfaction.,Hostel,2025-03-24
-474,Sports practice timings clash with other university events, causing attendance issues.,Sports,2025-03-23
-475,Faulty heaters in hostels make it difficult to concentrate during cold nights.,Maintenance,2025-03-22
-476,Faculty feedback on essays is inconsistent across different instructors.,Faculty,2025-03-21
-477,Mess waste is not cleared regularly leading to pest issues near dining halls.,Hostel,2025-03-20
-478,Lack of qualified coaches affects the quality of sports training.,Sports,2025-03-19
-479,Several lockers in hostel common areas have broken locks posing security risks.,Maintenance,2025-03-18
-480,Faculty sometimes rearrange class schedules at short notice causing confusion.,Faculty,2025-03-17
-481,Hostel Wi-Fi often disconnects causing interruptions to study and research.,Hostel,2025-03-16
-482,Basketball nets are often tattered and not replaced promptly.,Sports,2025-03-15
-483,Lighting in the computer lab is dim making long study sessions tiring.,Maintenance,2025-03-14
-484,Faculty often do not conduct promised extra tutorials before exams.,Faculty,2025-03-13
-485,Mess serving times sometimes do not align with lecture schedules.,Hostel,2025-03-12
-486,Several sports fields lack proper drainage leading to cancellations during rains.,Sports,2025-03-11
-487,Broken windows in hostel rooms let in cold wind and noise disrupting sleep.,Maintenance,2025-03-10
-488,Faculty availability for consultation fluctuates across semesters.,Faculty,2025-03-09
-489,Student common areas in hostels lack proper ventilation.,Hostel,2025-03-08
-490,Old sports equipment leads to frequent injuries during practice sessions.,Sports,2025-03-07
-491,Water leaks in academic buildings lead to occasional class disruptions.,Maintenance,2025-03-06
-492,Timely and clear faculty communication is often lacking for assessments.,Faculty,2025-03-05
-493,Hostel laundry machines break down often causing long waiting times.,Hostel,2025-03-04
-494,The track and field area requires urgent maintenance to be safe for use.,Sports,2025-03-03
-495,Heating system malfunctions in hostels make winters extremely uncomfortable.,Maintenance,2025-03-02
-496,Faculty sometimes provide inconsistent information across lecture groups.,Faculty,2025-03-01
-497,Dining areas in hostels are often overcrowded and noisy.,Hostel,2025-02-28
-498,Some sports facilities are closed unexpectedly without informing students.,Sports,2025-02-27
-499,Power outages in the hostel cause disruptions during evening study hours.,Maintenance,2025-02-26
-500,Faculty occasionally reschedule exams which affect student preparation.,Faculty,2025-02-25
+18,Staff do not respond to emails about course selection.,Faculty,2025-07-19
+19,The classroom fans are broken and have not been fixed for weeks.,Maintenance,2025-08-02
+20,Unhygienic washrooms cleaning staff rarely attends.,Hostel,2025-08-03
+21,Rodded chairs in the gym are unsafe for use.,Sports,2025-09-05
+22,The HVAC system in the main library often fails leaving students uncomfortable.,Maintenance,2025-08-15
+23,Faculty delayed releasing exam results hampering scholarship applications.,Faculty,2025-07-30
+24,Mess food portions are reduced without informing residents causing hunger.,Hostel,2025-09-01
+25,Several broken benches near sports ground unrepaired for months.,Sports,2025-08-20
+26,Frequent power outages affect online classes with no timely solutions.,Maintenance,2025-07-19
+27,Lecturers cancel multiple sessions citing personal reasons affecting syllabus.,Faculty,2025-08-12
+28,Hostel Wi-Fi signal extremely weak on upper floors.,Hostel,2025-08-25
+29,Sports equipment storage rooms often left unlocked causing security concerns.,Sports,2025-07-28
+30,Water pressure in hostel bathrooms drops drastically in evening hours.,Maintenance,2025-08-07
+31,Faculty feedback on assignments lacks detail making improvement difficult.,Faculty,2025-07-22
+32,Mess staff hygiene standards are worrying raising food safety concerns.,Hostel,2025-08-17
+33,Repeated complaints about leaking roof near basketball court ignored.,Sports,2025-08-05
+34,Air conditioning in lecture halls not functioning properly.,Maintenance,2025-07-27
+35,Faculty delays in updating course materials online impact studies.,Faculty,2025-08-01
+36,Hostel laundry facilities insufficient for residents causing delays.,Hostel,2025-07-24
+37,Sports coaches fail to provide consistent training sessions.,Sports,2025-08-16
+38,Common room lights flicker constantly disturbing students.,Maintenance,2025-08-10
+39,Lack of clarity from faculty regarding project deadlines.,Faculty,2025-07-31
+40,Hostel recreational areas frequently dirty and not maintained.,Hostel,2025-08-22
+41,Sports tracks have uneven surfaces causing injury risk.,Sports,2025-07-26
+42,Heating system in hostel rooms unreliable leading to cold nights.,Maintenance,2025-08-04
+43,Faculty members not accessible outside class hours for clarifications.,Faculty,2025-08-14
+44,Mess menu lacks variety with little dietary restriction consideration.,Hostel,2025-07-28
+45,Sports field floodlights are broken restricting evening practice.,Sports,2025-08-08
+46,Frequent water leaks in hostel block C causing hazards.,Maintenance,2025-07-21
+47,Delayed responses from faculty regarding internship approvals.,Faculty,2025-08-18
+48,Insect infestations reported in mess area needing immediate attention.,Hostel,2025-08-03
+49,Sports facilities booking system faulty leading to conflicts.,Sports,2025-07-25
+50,Elevator in main academic block often breaks down.,Maintenance,2025-08-23
+51,Lack of detailed exam review sessions from faculty.,Faculty,2025-07-29
+52,Hostel lights frequently go off at night causing safety concerns.,Hostel,2025-08-07
+53,Sports training equipment outdated and unsafe.,Sports,2025-08-11
+54,Repeated complaints about noisy air conditioners in study halls ignored.,Maintenance,2025-07-26
+55,Faculty often postpone classes citing administrative workload.,Faculty,2025-08-20
+56,Mess utensils often unclean leading to contamination worries.,Hostel,2025-08-01
+57,Sports complex lacks first aid facilities for injured athletes.,Sports,2025-07-31
+58,Broken taps in hostel bathrooms cause water wastage.,Maintenance,2025-08-10
+59,Unclear guidelines from faculty on grading criteria confuse students.,Faculty,2025-07-23
+60,Hostel corridors often left unlocked compromising security.,Hostel,2025-08-19
+61,Sports ground parking lot too small causing congestion.,Sports,2025-07-20
+62,Maintenance requests take weeks to address especially plumbing.,Maintenance,2025-08-05
+63,Faculty seminars and extra help sessions rarely arranged.,Faculty,2025-08-14
+64,Mess food preparation areas frequently untidy raising hygiene questions.,Hostel,2025-07-18
+65,Sports fields inaccessible due to poor drainage during rains.,Sports,2025-08-08
+66,Delayed repairs to damaged hostel furniture causing discomfort.,Maintenance,2025-07-27
+67,Faculty communication about course structure changes inadequate.,Faculty,2025-08-03
+68,Hostel lacks adequate garbage disposal causing unpleasant odors.,Hostel,2025-07-29
+69,Sports facilities maintenance staff unresponsive to repair requests.,Sports,2025-08-20
+70,Water heater in hostel bathrooms often malfunctions during winter.,Maintenance,2025-08-12
+71,Faculty office hours clash with lecture timings.,Faculty,2025-07-22
+72,Heating in hostel block A completely unreliable at night.,Maintenance,2025-09-03
+73,Faculty sometimes miss scheduled office hours without notification.,Faculty,2025-09-01
+74,Mess food has become repetitive and tasteless.,Hostel,2025-09-07
+75,Sports gym has broken treadmills with no replacement scheduled.,Sports,2025-09-05
+76,Poor lighting in corridors causing accidents late at night.,Maintenance,2025-08-31
+77,Delay in updating coursework material online causes confusion.,Faculty,2025-09-06
+78,Hostel internet drops frequently during late hours.,Hostel,2025-08-29
+79,Sports fields waterlogged and inaccessible due to poor drainage.,Sports,2025-09-02
+80,Washing machine in hostel laundry frequently out of order.,Maintenance,2025-09-04
+81,Faculty communication channels often unresponsive causing query delays.,Faculty,2025-08-27
+82,Unsanitary conditions in mess reported by numerous students.,Hostel,2025-09-08
+83,Sports equipment booking system confusing causing double bookings.,Sports,2025-09-03
+84,Electrical socket issues in study rooms disrupt computer labs.,Maintenance,2025-09-07
+85,Lack of timely response from faculty about grade appeals.,Faculty,2025-08-30
+86,Mess staff serve cold food despite high temperatures.,Hostel,2025-08-28
+87,Football field lacks proper line markings affecting matches.,Sports,2025-09-06
+88,Leaky taps and faucets in hostel washrooms waste water.,Maintenance,2025-09-05
+89,Course instructors reschedule classes last minute without informing.,Faculty,2025-09-01
+90,Poor recycling facilities in hostel increase pest problems.,Hostel,2025-09-07
+91,Sports courts untidy with broken fences creating hazards.,Sports,2025-08-29
+92,Heating systems in academic blocks faulty affecting concentration.,Maintenance,2025-09-04
+93,Faculty often do not provide detailed assignment feedback.,Faculty,2025-09-08
+94,Mess food portions too small for nutritional needs.,Hostel,2025-09-02
+95,Gym equipment outdated causing minor injuries during workouts.,Sports,2025-09-05
+96,Flickering lights in hostel study areas make focusing hard.,Maintenance,2025-09-03
+97,Faculty communication about exam schedules often delayed.,Faculty,2025-08-31
+98,Multiple complaints of unhygienic mess utensils causing health concerns.,Hostel,2025-09-06
+99,Lack of water stations near sports fields causes dehydration risks.,Sports,2025-09-01
+100,Hostels suffer from irregular garbage collection causing smells.,Maintenance,2025-09-07
+101,Faculty hard to reach for clarifications outside class hours.,Faculty,2025-09-04
+102,Hostel common rooms frequently unavailable due to poor maintenance.,Hostel,2025-08-30
+103,Lack of qualified sports coaching staff reduces training quality.,Sports,2025-09-06
+104,Air conditioning units in library malfunction during peak usage.,Maintenance,2025-09-02
+105,Faculty occasionally fail to respond to project deadline emails.,Faculty,2025-09-05
+106,Mess food hygiene standards have fallen according to students.,Hostel,2025-09-07
+107,Sports equipment rooms often left unlocked raising safety concerns.,Sports,2025-09-01
+108,Several toilets in hostel broken and unrepaired for weeks.,Maintenance,2025-09-06
+109,Lack of detailed syllabus updates from faculty creates confusion.,Faculty,2025-08-29
+110,Frequent water shortages in hostel blocks affect daily routines.,Hostel,2025-09-03
+111,Jogging track surface uneven causing frequent injuries.,Sports,2025-08-31
+112,Heating system malfunctions in study halls during exams.,Maintenance,2025-09-07
+113,Faculty feedback on practicals lacks clarity affecting lab preparation.,Faculty,2025-09-02
+114,Mess meals sometimes served cold despite complaints.,Hostel,2025-09-05
+115,Incomplete sports gear inventory makes conducting matches difficult.,Sports,2025-09-04
+116,Recurring power outages disrupt hostel activities.,Maintenance,2025-08-28
+117,Faculty availability for extra help sessions inconsistent.,Faculty,2025-09-06
+118,Hostel recreation areas need urgent maintenance due to damages.,Hostel,2025-09-01
+119,Sports facilities closed unexpectedly without notice affecting practice.,Sports,2025-09-03
+120,Leaking roofs in academic blocks cause distractions and damage.,Maintenance,2025-09-05
+121,Faculty grading criteria sometimes unclear and inconsistently applied.,Faculty,2025-09-07
+122,Air conditioning in seminar hall broken making lectures unbearable.,Maintenance,2025-09-12
+123,Faculty often cancel discussion sessions without informing students.,Faculty,2025-09-11
+124,Hostel kitchen cleanliness declined with pests spotted frequently.,Hostel,2025-09-10
+125,Basketballs for practice are old and deflated impeding training.,Sports,2025-09-09
+126,Campus Wi-Fi drops during critical lecture presentations.,Maintenance,2025-09-08
+127,Professors unresponsive to emails about assignment deadlines.,Faculty,2025-09-07
+128,Mess staff behavior worsened with complaints about rudeness.,Hostel,2025-09-06
+129,Outdoor volleyball court has many cracks causing unsafe conditions.,Sports,2025-09-05
+130,Hostel water heater out of service for weeks.,Maintenance,2025-09-04
+131,Faculty fail to update course portal regularly.,Faculty,2025-09-03
+132,Unpleasant odors in east wing due to poor ventilation.,Hostel,2025-09-02
+133,Sports practice schedules frequently changed with little notice.,Sports,2025-09-01
+134,Elevator in arts building frequently stuck between floors.,Maintenance,2025-08-31
+135,Lecturers unavailable during consultation hours.,Faculty,2025-08-30
+136,Mess food has poor variety with frequent repeat menus.,Hostel,2025-08-29
+137,Sports training facilities lack adequate lighting for evening practice.,Sports,2025-08-28
+138,Several lights in hostel corridors out for weeks raising safety concerns.,Maintenance,2025-08-27
+139,Faculty provide minimal feedback on essay submissions.,Faculty,2025-08-26
+140,Unhygienic conditions in laundry area due to delayed cleaning.,Hostel,2025-08-25
+141,Many sports lockers broken with faulty locks risking equipment loss.,Sports,2025-08-24
+142,Hot water availability in hostel bathrooms unreliable during mornings.,Maintenance,2025-08-23
+143,Delay in posting midterm grades creates student anxiety.,Faculty,2025-08-22
+144,Mess staff often serve cold parcels for early class students.,Hostel,2025-08-21
+145,Broken nets on cricket pitch reduce training quality.,Sports,2025-08-20
+146,Fire alarms in hostel blocks malfunctioning raising safety issues.,Maintenance,2025-08-19
+147,Faculty members regularly late to lectures wasting class time.,Faculty,2025-08-18
+148,Mess utensils appear unclean leading to health concerns.,Hostel,2025-08-17
+149,Frequent sports practice cancellations without prior notice.,Sports,2025-08-16
+150,Heating systems in library inadequate during cold weather.,Maintenance,2025-08-15
+151,Professors give ambiguous assignment submission instructions.,Faculty,2025-08-14
+152,Unpleasant smell in basement common room due to stagnant water.,Hostel,2025-08-13
+153,Limited weekend access to indoor sports facilities creates problems.,Sports,2025-08-12
+154,Many lecture hall fans broken causing discomfort during hot days.,Maintenance,2025-08-11
+155,Course materials not uploaded online despite approaching deadlines.,Faculty,2025-08-10
+156,Mess food portions small leaving students hungry after meals.,Hostel,2025-08-09
+157,Sports equipment like rackets and balls old needing replacement.,Sports,2025-08-08
+158,Hostel door locks faulty causing security concerns at night.,Maintenance,2025-08-07
+159,Faculty response times for assignment queries slow causing confusion.,Faculty,2025-08-06
+160,Mess area garbage bins overflow frequently causing foul odor.,Hostel,2025-08-05
+161,Water supply interruptions during sports practice affect hydration.,Sports,2025-08-04
+162,Several hostel floors suffer from poor elevator service.,Maintenance,2025-08-03
+163,Lack of timely faculty feedback on term papers affects planning.,Faculty,2025-08-02
+164,Inconsistent hostel bathroom cleaning schedules lower hygiene standards.,Hostel,2025-08-01
+165,Gym machines at sports complex out of order for weeks.,Sports,2025-07-31
+166,Heating malfunctions in student lounges during late night studies.,Maintenance,2025-07-30
+167,Faculty members do not hold scheduled revision classes.,Faculty,2025-07-29
+168,Mess staff hygiene practices questionable impacting food safety.,Hostel,2025-07-28
+169,Unsatisfactory outdoor sports fields maintenance reduces usable area.,Sports,2025-07-27
+170,Water leakage in hostel rooms causes property damage.,Maintenance,2025-07-26
+171,Faculty delay posting lecture notes online affecting exam prep.,Faculty,2025-07-25
+172,Seminar hall projector malfunctioning for weeks disrupting classes.,Maintenance,2025-07-24
+173,Faculty frequently delay uploading course materials affecting learning.,Faculty,2025-07-23
+174,Frequent mess meal timing delays cause inconvenience.,Hostel,2025-07-22
+175,Sports ground floodlights dim and often don't turn on.,Sports,2025-07-21
+176,Electrical outlets in hostel common rooms non-functional for months.,Maintenance,2025-07-20
+177,Faculty provide minimal clarification on complex topics.,Faculty,2025-07-19
+178,Hostel food quality fluctuates greatly between meals.,Hostel,2025-07-18
+179,Outdoor basketball court surface eroded and unsafe.,Sports,2025-07-17
+180,Water leakage from AC units damaging academic building furniture.,Maintenance,2025-07-16
+181,Unexpected tutorial cancellations by faculty without notification.,Faculty,2025-07-15
+182,Mess staff sometimes neglect hygiene compromising food safety.,Hostel,2025-07-14
+183,Broken gym equipment remains unrepaired for weeks creating hazards.,Sports,2025-07-13
+184,Poor hostel room ventilation causes discomfort during hot weather.,Maintenance,2025-07-12
+185,Faculty members often late or miss scheduled office hours.,Faculty,2025-07-11
+186,Mess menus lack nutritional balance impacting student health.,Hostel,2025-07-10
+187,Tennis court nets torn and not replaced for long time.,Sports,2025-07-09
+188,Frequent power fluctuations disrupt hostel study environments.,Maintenance,2025-07-08
+189,Faculty provide insufficient lab practical guidance.,Faculty,2025-07-07
+190,Unclean hostel common areas attract pests affecting comfort.,Hostel,2025-07-06
+191,Lack of sports equipment access due to poor maintenance.,Sports,2025-07-05
+192,Faulty library heating systems cause winter session disturbances.,Maintenance,2025-07-04
+193,Inconsistent faculty feedback makes exam preparation difficult.,Faculty,2025-07-03
+194,Mess staff behavior not always courteous making dining unpleasant.,Hostel,2025-07-02
+195,Sports trails narrow and poorly maintained reducing practice effectiveness.,Sports,2025-07-01
+196,Water supply interruptions in hostel blocks cause major inconvenience.,Maintenance,2025-06-30
+197,Difficulty communicating with faculty regarding course changes.,Faculty,2025-06-29
+198,Mess facilities lack sufficient seating causing peak hour overcrowding.,Hostel,2025-06-28
+199,Broken lights in sports locker rooms create unsafe conditions.,Sports,2025-06-27
+200,Damage to hostel study room furniture affecting student posture.,Maintenance,2025-06-26
+201,Faculty often unavailable during consultation appointments.,Faculty,2025-06-25
+202,Mess food served cold frequently despite student complaints.,Hostel,2025-06-24
+203,Athletic track has several cracks needing urgent resurfacing.,Sports,2025-06-23
+204,Intermittent water supply problems cause hostel hygiene concerns.,Maintenance,2025-06-22
+205,Faculty delay grading assignments impacting student planning.,Faculty,2025-06-21
+206,Unpleasant odors in hostel basement due to drainage issues.,Hostel,2025-06-20
+207,Sports equipment outdated and not safe for regular use.,Sports,2025-06-19
+208,Heating malfunctions in hostel at night leaving students uncomfortable.,Maintenance,2025-06-18
+209,Faculty information about exam schedules not distributed systematically.,Faculty,2025-06-17
+210,Dirty hostel bathrooms reduce student morale and comfort.,Hostel,2025-06-16
+211,Sports facilities often locked without notice preventing practice.,Sports,2025-06-15
+212,Lack of sufficient lights in hostel outdoor areas causes safety concerns.,Maintenance,2025-06-14
+213,Faculty sometimes late starting lectures affecting syllabus coverage.,Faculty,2025-06-13
+214,Mess food portions inconsistent and sometimes insufficient.,Hostel,2025-06-12
+215,Broken fencing around soccer field makes game management difficult.,Sports,2025-06-11
+216,Recurring electrical faults in student housing disrupt routines.,Maintenance,2025-06-10
+217,Faculty do not provide adequate exam preparation materials.,Faculty,2025-06-09
+218,Mess dining area often overcrowded during meal times.,Hostel,2025-06-08
+219,Gym equipment lacks proper instructions causing misuse.,Sports,2025-06-07
+220,Hostel laundry machines frequently out of order increasing wait times.,Maintenance,2025-06-06
+221,Faculty communication sometimes vague causing coursework confusion.,Faculty,2025-06-05
+222,Auditorium sound system outdated causing poor audio quality.,Maintenance,2025-07-24
+223,Faculty members frequently late to classes disrupting schedules.,Faculty,2025-07-23
+224,Mess food hygiene poor with some students reporting illness.,Hostel,2025-07-22
+225,Sports nets around basketball court torn needing urgent replacement.,Sports,2025-07-21
+226,Student common area lighting dim and often flickers.,Maintenance,2025-07-20
+227,Faculty rarely hold pre-exam review sessions leaving students unprepared.,Faculty,2025-07-19
+228,Significant water supply delays make daily hygiene challenging.,Hostel,2025-07-18
+229,Tennis courts have broken surfaces making them unsafe.,Sports,2025-07-17
+230,Library heating insufficient during winter creating uncomfortable environment.,Maintenance,2025-07-16
+231,Faculty often do not provide detailed assignment marking criteria.,Faculty,2025-07-15
+232,Mess staff attitude sometimes rude negatively affecting dining.,Hostel,2025-07-14
+233,Broken gym equipment not fixed for several weeks.,Sports,2025-07-13
+234,Common study room air conditioning either too cold or not working.,Maintenance,2025-07-12
+235,Faculty not accessible outside class hours for additional help.,Faculty,2025-07-11
+236,Mess food variety low with repetitive menus reducing satisfaction.,Hostel,2025-07-10
+237,Sports training schedules frequently changed at short notice.,Sports,2025-07-09
+238,Elevators in hostel block A often break down inconveniencing residents.,Maintenance,2025-07-08
+239,Faculty responses to assignment queries often delayed.,Faculty,2025-07-07
+240,Unclean conditions around hostel waste disposal areas.,Hostel,2025-07-06
+241,Sports field drainage poor resulting in waterlogging after rains.,Sports,2025-07-05
+242,Frequent hostel power cuts interrupt study routines.,Maintenance,2025-07-04
+243,Faculty sometimes cancel lectures unexpectedly disrupting learning pace.,Faculty,2025-07-03
+244,Mess kitchen often smells bad due to poor ventilation.,Hostel,2025-07-02
+245,Gym machines have unaddressed safety issues.,Sports,2025-07-01
+246,Lack of hot water in hostel bathrooms during winters.,Maintenance,2025-06-30
+247,Faculty sometimes fail to provide clear project guidelines.,Faculty,2025-06-29
+248,Mess portion sizes sometimes inadequate for nutritional needs.,Hostel,2025-06-28
+249,Sports courts inadequately maintained leading to injuries.,Sports,2025-06-27
+250,Broken windows in hostel rooms cause drafts.,Maintenance,2025-06-26
+251,The campus shuttle service is frequently delayed causing students to miss classes.,Maintenance,2025-09-15
+252,Faculty members do not respond to requests for recommendation letters within reasonable time.,Faculty,2025-09-14
+253,Hostel security guards are often absent from their posts during night shifts.,Hostel,2025-09-13
+254,Swimming pool maintenance is poor with algae growth making it unusable for weeks.,Sports,2025-09-12
+255,Laboratory equipment is outdated and frequently malfunctions during experiments.,Maintenance,2025-09-11
+256,Course prerequisites are not clearly communicated leading to enrollment confusion.,Faculty,2025-09-10
+257,Hostel parking spaces are insufficient causing conflicts among residents.,Hostel,2025-09-09
+258,Badminton court flooring has developed cracks posing injury risks during matches.,Sports,2025-09-08
+259,Campus streetlights are dim and many are non-functional creating safety hazards.,Maintenance,2025-09-07
+260,Faculty often skip office hours during exam periods when students need help most.,Faculty,2025-09-06
+261,Hostel noise complaints are not addressed by wardens leading to sleep disruption.,Hostel,2025-09-05
+262,Sports equipment checkout system is inefficient causing long queues.,Sports,2025-09-04
+263,Classroom projector bulbs burn out frequently and replacements take weeks.,Maintenance,2025-09-03
+264,Faculty feedback forms are rarely used to improve teaching methods.,Faculty,2025-09-02
+265,Hostel visitor policies are inconsistently enforced causing confusion.,Hostel,2025-09-01
+266,Outdoor fitness equipment is rusted and unsafe for regular use.,Sports,2025-08-31
+267,Campus drainage system clogs during monsoons flooding walkways.,Maintenance,2025-08-30
+268,Faculty attendance policies vary widely across departments without clear standards.,Faculty,2025-08-29
+269,Hostel study rooms are often occupied by non-residents reducing availability.,Hostel,2025-08-28
+270,Cricket practice nets have holes making bowling practice ineffective.,Sports,2025-08-27
+271,Computer lab air conditioning systems freeze up regularly disrupting classes.,Maintenance,2025-08-26
+272,Faculty grading turnaround times exceed university policy limits.,Faculty,2025-08-25
+273,Hostel mailboxes are broken and mail delivery is irregular.,Hostel,2025-08-24
+274,Weight room mirrors are cracked creating safety hazards during workouts.,Sports,2025-08-23
+275,Campus Wi-Fi frequently disconnects in dormitory areas during peak hours.,Maintenance,2025-08-22
+276,Faculty research opportunities are not adequately communicated to undergraduate students.,Faculty,2025-08-21
+277,Hostel hot plates and cooking facilities are insufficient for resident needs.,Hostel,2025-08-20
+278,Table tennis tables have warped surfaces affecting ball bounce during games.,Sports,2025-08-19
+279,Parking lot potholes damage vehicles and have not been repaired for months.,Maintenance,2025-08-18
+280,Faculty sabbatical replacements often lack subject expertise affecting course quality.,Faculty,2025-08-17
+281,Hostel telephone systems are outdated and frequently out of order.,Hostel,2025-08-16
+282,Sports field sprinkler systems over-water areas creating muddy conditions.,Sports,2025-08-15
+283,Library heating vents blow dust and allergens causing respiratory discomfort.,Maintenance,2025-08-14
+284,Faculty publication requirements create conflicts between research and teaching time.,Faculty,2025-08-13
+285,Hostel evacuation procedures are not regularly practiced or clearly posted.,Hostel,2025-08-12
+286,Volleyball nets sag excessively and are not properly tensioned for games.,Sports,2025-08-11
+287,Campus emergency call boxes are not functional in several locations.,Maintenance,2025-08-10
+288,Faculty course syllabi are often incomplete or missing key assignment details.,Faculty,2025-08-09
+289,Hostel fire extinguishers have expired dates and need immediate replacement.,Hostel,2025-08-08
+290,Soccer goalposts are not securely anchored posing safety risks during play.,Sports,2025-08-07
+291,Lecture hall microphone systems produce feedback and static during presentations.,Maintenance,2025-08-06
+292,Faculty diversity in hiring does not reflect university stated commitment goals.,Faculty,2025-08-05
+293,Hostel key card access systems malfunction frequently locking out residents.,Hostel,2025-08-04
+294,Track and field hurdles are damaged and not regulation height for competitions.,Sports,2025-08-03
+295,Campus recycling bins are not emptied regularly causing overflow and odors.,Maintenance,2025-08-02
+296,Faculty mentorship programs are inadequately structured and lack clear guidelines.,Faculty,2025-08-01
+297,Hostel common room furniture is worn and uncomfortable for extended use.,Hostel,2025-07-31
+298,Sports medicine supplies are insufficient and outdated at training facilities.,Sports,2025-07-30
+299,Campus security cameras have blind spots in critical areas near dormitories.,Maintenance,2025-07-29
+300,Faculty committee assignments create excessive workloads affecting teaching quality.,Faculty,2025-07-28
+301,Hostel move-in procedures are disorganized causing unnecessary delays and stress.,Hostel,2025-07-27
+302,Basketball court lines need repainting as current markings are barely visible.,Sports,2025-07-26
+303,Student center roof leaks during rainy weather damaging equipment and furniture.,Maintenance,2025-07-25
+304,Faculty training on new technology platforms is inadequate affecting online learning.,Faculty,2025-07-24
+305,Hostel laundry room ventilation is poor causing excessive humidity and mold.,Hostel,2025-07-23
+306,Archery range safety equipment is outdated and potentially unsafe for use.,Sports,2025-07-22
+307,Campus landscaping sprinklers spray walkways making them slippery and dangerous.,Maintenance,2025-07-21
+308,Faculty workload distribution is uneven across departments creating burnout issues.,Faculty,2025-07-20
+309,Hostel room temperature control is inconsistent between floors and buildings.,Hostel,2025-07-19
+310,Golf practice putting greens are in poor condition with uneven surfaces.,Sports,2025-07-18
+311,Dormitory smoke detectors chirp due to low batteries disturbing sleep patterns.,Maintenance,2025-07-17
+312,Faculty professional development opportunities are limited and poorly funded.,Faculty,2025-07-16
+313,Hostel guest registration system is cumbersome and often crashes during use.,Hostel,2025-07-15
+314,Rowing equipment maintenance is neglected causing safety concerns on water.,Sports,2025-07-14
+315,Campus pathways have loose bricks creating trip hazards for pedestrians.,Maintenance,2025-07-13
+316,Faculty collaboration across departments is hindered by scheduling conflicts.,Faculty,2025-07-12
+317,Hostel event booking system double-schedules rooms causing program conflicts.,Hostel,2025-07-11
+318,Martial arts mats are torn and need replacement for safe training sessions.,Sports,2025-07-10
+319,Library book return slots are frequently jammed requiring staff intervention.,Maintenance,2025-07-09
+320,Faculty sabbatical application process is unclear and poorly documented.,Faculty,2025-07-08
+321,Hostel maintenance request system is slow and lacks progress tracking features.,Hostel,2025-07-07
+322,Climbing wall safety ropes show signs of wear and need professional inspection.,Sports,2025-07-06
+323,Campus outdoor seating areas have broken benches that are not being repaired.,Maintenance,2025-07-05
+324,Faculty interdisciplinary course proposals face excessive bureaucratic obstacles.,Faculty,2025-07-04
+325,Hostel printing facilities are frequently out of paper and toner cartridges.,Hostel,2025-07-03
+326,Dance studio mirrors are cracked and create distorted reflections during practice.,Sports,2025-07-02
+327,Classroom whiteboards are stained and difficult to erase affecting visibility.,Maintenance,2025-07-01
+328,Faculty performance evaluation criteria are subjective and inconsistently applied.,Faculty,2025-06-30
+329,Hostel storage lockers are too small for seasonal clothing and personal items.,Hostel,2025-06-29
+330,Squash court walls have ball marks that interfere with game visibility.,Sports,2025-06-28
+331,Campus construction zones lack proper signage creating pedestrian safety risks.,Maintenance,2025-06-27
+332,Faculty research funding application deadlines are not well communicated.,Faculty,2025-06-26
+333,Hostel internet bandwidth is insufficient during peak usage hours.,Hostel,2025-06-25
+334,Fencing equipment is outdated and masks have visibility issues.,Sports,2025-06-24
+335,Auditorium seating has broken springs making long events uncomfortable.,Maintenance,2025-06-23
+336,Faculty teaching loads prevent adequate time for student individual consultations.,Faculty,2025-06-22
+337,Hostel bike storage areas are inadequate and bicycles are frequently stolen.,Hostel,2025-06-21
+338,Gymnastics equipment padding is compressed and provides insufficient protection.,Sports,2025-06-20
+339,Campus water fountains are frequently out of order or produce warm water.,Maintenance,2025-06-19
+340,Faculty email response times to urgent student queries exceed reasonable limits.,Faculty,2025-06-18
+341,Hostel garbage collection schedules are inconsistent causing sanitation issues.,Hostel,2025-06-17
+342,Wrestling mats are slippery when cleaned and pose safety risks during training.,Sports,2025-06-16
+343,Laboratory fume hoods are not properly calibrated creating health hazards.,Maintenance,2025-06-15
+344,Faculty course scheduling creates conflicts with required prerequisite sequences.,Faculty,2025-06-14
+345,Hostel social events lack variety and fail to engage diverse student interests.,Hostel,2025-06-13
+346,Lacrosse field goals are bent and not regulation size for official games.,Sports,2025-06-12
+347,Campus shuttle stops lack weather protection leaving passengers exposed.,Maintenance,2025-06-11
+348,Faculty committee meetings are scheduled during teaching hours creating conflicts.,Faculty,2025-06-10
+349,Hostel quiet hours are not enforced consistently across different buildings.,Hostel,2025-06-09
+350,Softball field dugouts have splinters and need refinishing for player safety.,Sports,2025-06-08
+351,Classroom door locks stick making it difficult to secure rooms after hours.,Maintenance,2025-06-07
+352,Faculty grant application support services are understaffed and overwhelmed.,Faculty,2025-06-06
+353,Hostel elevator inspections are overdue raising safety compliance concerns.,Hostel,2025-06-05
+354,Cross country running trails have overgrown vegetation blocking safe passage.,Sports,2025-06-04
+355,Campus lighting timers are not adjusted seasonally leaving areas dark too early.,Maintenance,2025-06-03
+356,Faculty tenure review processes lack transparency and clear evaluation criteria.,Faculty,2025-06-02
+357,Hostel room assignment system does not consider roommate compatibility factors.,Hostel,2025-06-01
+358,Field hockey goals are missing nets making goal scoring difficult to judge.,Sports,2025-05-31
+359,Student union building escalators frequently break down causing crowding.,Maintenance,2025-05-30
+360,Faculty parking permits are overpriced compared to available space quality.,Faculty,2025-05-29
+361,Hostel cleaning supplies are insufficient for residents to maintain room hygiene.,Hostel,2025-05-28
+362,Rock climbing holds are loose and need tightening before accidents occur.,Sports,2025-05-27
+363,Campus ATM machines are frequently out of service or empty of cash.,Maintenance,2025-05-26
+364,Faculty curriculum revision processes are slow and resist necessary updates.,Faculty,2025-05-25
+365,Hostel pest control treatments are infrequent allowing infestations to persist.,Hostel,2025-05-24
+366,Ultimate frisbee fields lack proper boundaries marked for tournament play.,Sports,2025-05-23
+367,Dormitory washing machines leak water creating slip hazards in laundry rooms.,Maintenance,2025-05-22
+368,Faculty technology support for remote teaching tools is inadequate and slow.,Faculty,2025-05-21
+369,Hostel community advisors are undertrained in conflict resolution techniques.,Hostel,2025-05-20
+370,Skateboard ramps have rough surfaces that damage equipment and cause falls.,Sports,2025-05-19
+371,Campus snow removal is slow making walkways hazardous during winter weather.,Maintenance,2025-05-18
+372,Faculty workspaces are overcrowded and lack privacy for student consultations.,Faculty,2025-05-17
+373,Hostel move-out procedures require excessive cleaning deposits and inspections.,Hostel,2025-05-16
+374,Cycling paths have potholes and debris making biking dangerous.,Sports,2025-05-15
+375,Library study carrels have broken electrical outlets preventing laptop use.,Maintenance,2025-05-14
+376,Faculty summer teaching schedules are released too late for proper planning.,Faculty,2025-05-13
+377,Hostel room keys are frequently lost requiring expensive lock replacements.,Hostel,2025-05-12
+378,Swimming pool chemical balance is inconsistent causing skin and eye irritation.,Sports,2025-05-11
+379,Campus landscaping uses excessive water during drought conditions.,Maintenance,2025-05-10
+380,Faculty sabbatical coverage arrangements are inadequately planned and communicated.,Faculty,2025-05-09
+381,Hostel heating systems are not zoned properly causing temperature imbalances.,Hostel,2025-05-08
+382,Cheerleading practice space has poor acoustics making music coordination difficult.,Sports,2025-05-07
+383,Parking meters malfunction frequently and do not provide proper receipts.,Maintenance,2025-05-06
+384,Faculty office assignments change frequently disrupting established student relationships.,Faculty,2025-05-05
+385,Hostel emergency lighting systems are not tested regularly as required by code.,Hostel,2025-05-04
+386,Bowling alley lane conditions are inconsistent affecting game scoring accuracy.,Sports,2025-05-03
+387,Campus construction dust affects air quality in nearby academic buildings.,Maintenance,2025-05-02
+388,Faculty union negotiations create uncertainty about course offerings and schedules.,Faculty,2025-05-01
+389,Hostel study spaces have insufficient electrical outlets for modern device needs.,Hostel,2025-04-30
+390,Paintball equipment is poorly maintained and masks fog up during games.,Sports,2025-04-29
+391,Student parking permits cost more than comparable off-campus alternatives.,Maintenance,2025-04-28
+392,Faculty research space allocation is unfair and based on outdated priorities.,Faculty,2025-04-27
+393,Hostel room furniture assembly instructions are missing causing setup difficulties.,Hostel,2025-04-26
+394,Disc golf course has missing tee markers making navigation confusing.,Sports,2025-04-25
+395,Campus recycling program lacks clear guidelines causing contamination problems.,Maintenance,2025-04-24
+396,Faculty hiring committees lack diversity training affecting recruitment outcomes.,Faculty,2025-04-23
+397,Hostel policy manuals are outdated and contain contradictory information.,Hostel,2025-04-22
+398,Intramural sports scheduling conflicts with academic exam periods.,Sports,2025-04-21
+399,Classroom acoustics are poor making it difficult to hear lectures from back rows.,Maintenance,2025-04-20
+400,Faculty development workshops are scheduled during peak teaching times.,Faculty,2025-04-19
+401,Hostel holiday break procedures are unclear causing confusion about storage.,Hostel,2025-04-18
+402,Water polo goals are not regulation height affecting competitive play quality.,Sports,2025-04-17
+403,Campus tour routes include areas under construction creating safety hazards.,Maintenance,2025-04-16
+404,Faculty peer review processes for promotion lack standardized evaluation criteria.,Faculty,2025-04-15
+405,Hostel guest bathroom facilities are inadequate for visitor volume during events.,Hostel,2025-04-14
+406,Beach volleyball sand courts need fresh sand and proper drainage systems.,Sports,2025-04-13
+407,Lecture hall temperature controls are locked preventing adjustment during classes.,Maintenance,2025-04-12
+408,Faculty conference travel funding is insufficient to maintain professional development.,Faculty,2025-04-11
+409,Hostel internet filtering blocks legitimate academic research websites.,Hostel,2025-04-10
+410,Outdoor basketball courts lack windscreens making play difficult on windy days.,Sports,2025-04-09
+411,Campus sidewalk cracks allow weeds to grow creating uneven walking surfaces.,Maintenance,2025-04-08
+412,Faculty teaching excellence recognition programs are underfunded and infrequent.,Faculty,2025-04-07
+413,Hostel package delivery system loses items and lacks tracking capabilities.,Hostel,2025-04-06
+414,Ice hockey rink boards have gaps allowing pucks to escape playing area.,Sports,2025-04-05
+415,Student center roof ventilation is inadequate causing poor air circulation.,Maintenance,2025-04-04
+416,Faculty retirement planning workshops are not offered regularly enough.,Faculty,2025-04-03
+417,Hostel community kitchen appliances are frequently broken and not replaced promptly.,Hostel,2025-04-02
+418,Sailing equipment rigging is outdated and creates safety concerns on water.,Sports,2025-04-01
+419,Campus emergency evacuation routes are not clearly marked in all buildings.,Maintenance,2025-03-31
+420,Faculty course evaluation forms do not capture meaningful feedback for improvement.,Faculty,2025-03-30
+421,Hostel noise insulation between rooms is inadequate allowing sound transmission.,Hostel,2025-03-29
+422,Equestrian facility jumps are unstable and need professional safety inspection.,Sports,2025-03-28
+423,Library HVAC system creates drafts that blow papers off desks.,Maintenance,2025-03-27
+424,Faculty salary scales are not transparent creating equity concerns across departments.,Faculty,2025-03-26
+425,Hostel emergency contact information is not updated regularly in residence systems.,Hostel,2025-03-25
+426,Handball courts have uneven surfaces that affect ball bounce during games.,Sports,2025-03-24
+427,Campus pedestrian crossings lack proper signals creating traffic safety issues.,Maintenance,2025-03-23
+428,Faculty mentoring of junior colleagues is inconsistent across academic departments.,Faculty,2025-03-22
+429,Hostel room inspection policies are applied inconsistently between resident advisors.,Hostel,2025-03-21
+430,Racquetball court walls have dead spots that affect gameplay quality.,Sports,2025-03-20
+431,Computer lab keyboards are worn with missing letters making typing difficult.,Maintenance,2025-03-19
+432,Faculty workload documentation systems are cumbersome and time-consuming to use.,Faculty,2025-03-18
+433,Hostel fire drill procedures are not practiced frequently enough for safety.,Hostel,2025-03-17
+434,Outdoor tennis court surfaces crack during temperature changes affecting play.,Sports,2025-03-16
+435,Campus WiFi password changes are not communicated effectively to users.,Maintenance,2025-03-15
+436,Faculty office space allocation does not consider collaboration needs between colleagues.,Faculty,2025-03-14
+437,Hostel room security deposits are held too long after move-out completion.,Hostel,2025-03-13
+438,Weight lifting platforms have uneven surfaces creating instability during exercises.,Sports,2025-03-12
+439,Classroom multimedia equipment training is not provided to faculty regularly.,Maintenance,2025-03-11
+440,Faculty sabbatical reporting requirements are excessive and poorly defined.,Faculty,2025-03-10
+441,Hostel study room booking system allows excessive advance reservations blocking access.,Hostel,2025-03-09
+442,Sports facility lighting schedules do not accommodate early morning training sessions.,Sports,2025-03-08
+443,Campus dining hall tables are sticky and not properly cleaned between meal periods.,Maintenance,2025-03-07
+444,Faculty committee service expectations are not distributed equitably across ranks.,Faculty,2025-03-06
+445,Hostel guest parking restrictions are too strict for family visit accommodations.,Hostel,2025-03-05
+446,Jogging trail distance markers are inaccurate making training planning difficult.,Sports,2025-03-04
+447,Student health center air conditioning creates uncomfortable temperature fluctuations.,Maintenance,2025-03-03
+448,Faculty research collaboration funding lacks support for interdisciplinary projects.,Faculty,2025-03-02
+449,Hostel community building programs lack funding and administrative support.,Hostel,2025-03-01
+450,Sports broadcasting equipment for games is outdated and frequently malfunctions.,Sports,2025-02-28
+451,Campus courtyard benches are positioned in areas without adequate shade.,Maintenance,2025-02-27
+452,Faculty promotion timeline expectations are unrealistic given current resource constraints.,Faculty,2025-02-26
+453,Hostel maintenance staff access rooms without proper notice to residents.,Hostel,2025-02-25
+454,Outdoor fitness trail exercise stations have broken equipment needing replacement.,Sports,2025-02-24
+455,Laboratory safety shower systems are not tested regularly as required by regulations.,Maintenance,2025-02-23
+456,Faculty retreat planning does not include input from diverse departmental representatives.,Faculty,2025-02-22
+457,Hostel guest registration requires excessive personal information creating privacy concerns.,Hostel,2025-02-21
+458,Flag football field markings fade quickly and need more durable paint.,Sports,2025-02-20
+459,Campus information kiosks display outdated event information confusing visitors.,Maintenance,2025-02-19
+460,Faculty conference room booking system double-schedules meetings causing conflicts.,Faculty,2025-02-18
+461,Hostel laundry room security cameras are not functioning creating safety concerns.,Hostel,2025-02-17
+462,Adventure sports equipment rental policies are unclear and inconsistently enforced.,Sports,2025-02-16
+463,Student parking garage ventilation systems do not adequately remove vehicle exhaust.,Maintenance,2025-02-15
+464,Faculty professional leave policies are complex and poorly explained to applicants.,Faculty,2025-02-14
+465,Hostel birthday party noise policies are not clearly communicated to residents.,Hostel,2025-02-13
+466,Kayak storage racks are overcrowded making equipment access difficult and unsafe.,Sports,2025-02-12
+467,Campus lighting sensors are oversensitive causing frequent unnecessary activation.,Maintenance,2025-02-11
+468,Faculty teaching award nomination processes favor certain departments unfairly.,Faculty,2025-02-10
+469,Hostel peer mediation services are underutilized due to lack of student awareness.,Hostel,2025-02-09
+470,Outdoor adventure course safety equipment inspections are overdue and inadequate.,Sports,2025-02-08
+471,Classroom projector screens have wrinkles and tears affecting presentation quality.,Maintenance,2025-02-07
+472,Faculty research ethics training requirements are not clearly communicated campus-wide.,Faculty,2025-02-06
+473,Hostel cultural programming lacks representation from diverse student populations.,Hostel,2025-02-05
+474,Sports equipment checkout hours conflict with practice schedules creating access problems.,Sports,2025-02-04
+475,Campus loading dock scheduling is chaotic causing delivery delays and safety issues.,Maintenance,2025-02-03
+476,Faculty emeritus office space policies are unclear creating uncertainty after retirement.,Faculty,2025-02-02
+477,Hostel room change procedures are complicated and heavily penalized financially.,Hostel,2025-02-01
+478,Outdoor recreation equipment maintenance schedules are not followed consistently.,Sports,2025-01-31
+479,Student center meeting room acoustics allow sound to carry between adjacent spaces.,Maintenance,2025-01-30
+480,Faculty development sabbatical applications require excessive documentation and justification.,Faculty,2025-01-29
+481,Hostel conflict resolution training for resident advisors is insufficient and outdated.,Hostel,2025-01-28
+482,Sports facility user agreements contain contradictory liability and safety clauses.,Sports,2025-01-27
+483,Campus tour guide training does not include current construction and safety updates.,Maintenance,2025-01-26
+484,Faculty course scheduling preferences are not considered fairly in departmental planning.,Faculty,2025-01-25
+485,Hostel emergency preparedness supplies are not inventoried or updated regularly.,Hostel,2025-01-24
+486,Intramural referee training is inadequate leading to inconsistent game officiating.,Sports,2025-01-23
+487,Laboratory equipment calibration schedules are not maintained properly affecting research.,Maintenance,2025-01-22
+488,Faculty interdisciplinary collaboration is hindered by incompatible tenure track requirements.,Faculty,2025-01-21
+489,Hostel social media policies restrict legitimate educational and communication uses.,Hostel,2025-01-20
+490,Sports medicine injury reporting procedures are cumbersome and discourage proper documentation.,Sports,2025-01-19
+491,Campus sustainability initiatives lack student input and transparent progress reporting.,Maintenance,2025-01-18
+492,Faculty workload credits for community service are not recognized equitably across disciplines.,Faculty,2025-01-17
+493,Hostel room maintenance request priority system is unclear causing delayed essential repairs.,Hostel,2025-01-16
+494,Sports team uniform ordering processes are slow and sizes are frequently unavailable.,Sports,2025-01-15
+495,Classroom ergonomic furniture does not accommodate students with physical disabilities.,Maintenance,2025-01-14
+496,Faculty diversity and inclusion training is mandatory but poorly designed and ineffective.,Faculty,2025-01-13
+497,Hostel residential education programming lacks relevant topics for modern student concerns.,Hostel,2025-01-12
+498,Athletic training room equipment is shared unsanitarily between different sports teams.,Sports,2025-01-11
+499,Campus environmental controls create uncomfortable humidity levels in multiple buildings.,Maintenance,2025-01-10
+500,Faculty retirement benefit information sessions are scheduled infrequently and poorly advertised.,Faculty,2025-01-09
