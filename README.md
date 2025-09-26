@@ -1,4 +1,4 @@
-🏗️ Complaint Clubbing Pipeline
+## Complaint Clubbing Pipeline
 
 A single-file prototype that implements the complaint clubbing roadmap — designed for clarity, experimentation, and easy iteration.
 
