@@ -1,0 +1,13 @@
+{
+  "shell_port": 60961,
+  "iopub_port": 60962,
+  "stdin_port": 60963,
+  "control_port": 60965,
+  "hb_port": 60964,
+  "ip": "127.0.0.1",
+  "key": "3de9e694-29253bb78d04d0523517afc7",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\hp\\Desktop\\PythonProjects_langchain\\clustering_model1.ipynb"
+}
