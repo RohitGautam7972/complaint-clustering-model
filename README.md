@@ -1,55 +1,65 @@
-## Complaint Clubbing Pipeline
+# Complaint Clubbing Pipeline
 
-A single-file prototype that implements the complaint clubbing roadmap — designed for clarity, experimentation, and easy iteration.
+A **single-file prototype** implementing a **Complaint Clubbing Pipeline**, designed for **clarity, experimentation, and easy iteration**.  
+This pipeline helps cluster similar complaints based on textual content, keywords, and category information.
 
-✨ Features
+---
 
-Data Handling
+## ✨ Features
 
-CSV loader and synthetic data generator for testing
+### 1. Data Handling
+- **CSV Loader:** Easily load complaint datasets.
+- **Synthetic Data Generator:** Quickly test clustering logic without a real dataset.
 
-Preprocessing
+### 2. Preprocessing
+- Basic text cleaning:
+  - Lowercasing
+  - Punctuation removal
+  - Stopwords removal
+- Optional **lemmatization** via NLTK for better word normalization.
 
-Basic text cleaning (lowercasing, punctuation removal, stopwords)
+### 3. Embedding & Similarity
+- **Sentence-BERT embeddings** (`all-MiniLM-L6-v2`) for semantic similarity.
+- **Pairwise cosine similarity** between complaints.
+- **Keyword overlap** via Jaccard similarity on top-N tokens.
+- **Final similarity score:** Weighted sum of text, keyword, and category similarity.
 
-Optional lemmatization (via NLTK)
+### 4. Dynamic Thresholding
+- Adjustable threshold function for pairwise similarity.
+- Can be tuned for sensitivity in clustering.
 
-Embedding & Similarity
+### 5. Custom Clustering
+- **Incremental connected-components algorithm**.
+- Supports **time window constraint** (e.g., cluster complaints only within 30 days).
+- **Post-processing**:
+  - Merge closely related clusters
+  - Split loose clusters for better precision.
 
-Sentence-BERT embeddings (all-MiniLM-L6-v2)
+### 6. Cluster Insights
+- **Confidence score**: Mean pairwise similarity within cluster.
+- **Representative complaint selection**: Longest complaint + most recent as tie-breaker.
+- **Keyword extraction**: Using YAKE for meaningful summaries.
 
-Pairwise cosine similarity
+### 7. Evaluation
+- **Silhouette score** (for >1 cluster) to evaluate cluster cohesion.
+- **Purity** score (requires ground truth categories).
 
-Keyword overlap (Jaccard similarity on top-N tokens)
+### 8. Serving
+- FastAPI scaffold ready for production deployment.
 
-Final score = weighted sum of text, keyword, and category similarity
+---
 
-Dynamic Thresholding
+## 📦 Installation
 
-Adjustable per-pair threshold function
+```bash
+# Clone repository
+git clone <your-repo-url>
+cd complaint-clubbing
 
-Custom Clustering
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate   # Linux / Mac
+venv\Scripts\activate      # Windows
 
-Incremental connected-components style algorithm
-
-Time window constraint (e.g., group only complaints within 30 days)
-
-Postprocessing: merge close clusters, split loose ones
-
-Cluster Insights
-
-Confidence score (mean pairwise similarity)
-
-Representative complaint selection (longest + most recent tie-breaker)
-
-Keyword extraction (YAKE)
-
-Evaluation
-
-Silhouette score (if >1 cluster)
-
-Purity (based on ground truth categories)
-
-Serving
-
-FastAPI endpoint scaffold for productionization
+# Install dependencies
+pip install -r requirements.txt
